@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../browny-v1.0"
+		},
+		{
+			"path": "../../Desktop/Personal"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Thanh-Hieu-master"
+	}
+}
